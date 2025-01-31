@@ -1,0 +1,51 @@
+commit aa5fe5c4812cf0938a3d6e1852db89eb0d106336
+Merge: 521df73 4e074e9
+Author: Daniel Moncada <dmoncad4@calstatela.edu>
+Date:   Fri Jan 31 11:55:45 2025 -0800
+
+    added new things
+
+commit 4e074e9265776e44d64afaa806b84d936f436c6b
+Author: Daniel Moncada <dmoncad4@calstatela.edu>
+Date:   Fri Jan 31 11:17:40 2025 -0800
+
+    added favorite movie
+
+commit 521df7345fbbbdd35b1cb225c53cc4c49162a59f
+Author: Daniel Moncada <dmoncad4@calstatela.edu>
+Date:   Fri Jan 31 11:15:17 2025 -0800
+
+    added favorite food
+
+commit 55053574ce9b69fc041e854a1f8cc83b99d31012
+Author: Daniel Moncada <dmoncad4@calstatela.edu>
+Date:   Fri Jan 31 11:09:33 2025 -0800
+
+    name and hobbies
+
+commit 36bdfa6611778786132283bf2ad5446cc46bef48
+Author: Daniel Moncada <dmoncad4@calstatela.edu>
+Date:   Fri Jan 31 11:04:54 2025 -0800
+
+    name and hobbies
+
+commit afe1f360c47fc6c87587a3d461db111d1737fc39
+Merge: 1d2bfc0 8afe722
+Author: DanielMS-AI <dmoncad4@calstatela.edu>
+Date:   Fri Jan 31 11:02:59 2025 -0800
+
+    Merge pull request #1 from DanielMS-AI/info-fill
+    
+    I editied the file
+
+commit 8afe722391ebe15b354236dd47a0fb595acd5296
+Author: Daniel Moncada <dmoncad4@calstatela.edu>
+Date:   Fri Jan 31 10:50:05 2025 -0800
+
+    I editied the file
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
