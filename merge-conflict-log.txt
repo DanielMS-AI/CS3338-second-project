@@ -1,0 +1,115 @@
+danielmoncada@Daniels-MacBook-Pro CS3338-second-project % git log
+commit 5dc5e1151fa564ece7466b6628afebb1699dab22 (HEAD -> main, origin/main)
+Merge: 5d3df8d 0064c6f
+Author: Daniel Moncada <dmoncad4@calstatela.edu>
+Date:   Tue Feb 4 20:18:16 2025 -0800
+
+    new merged changes
+
+commit 5d3df8dbcd1a255d631c1df84d0348b4220dcf36 (checkout)
+Author: danielleG332 <dgarci332@calstatela.edu>
+Date:   Tue Feb 4 19:41:58 2025 -0800
+
+    removed my edit in main branch
+
+commit 8ed9dd4ea2b11c25f18465c2ad363035409425ae
+Merge: a52fc69 99b5b9f
+Author: Daniel Moncada <dmoncad4@calstatela.edu>
+Date:   Tue Feb 4 19:40:43 2025 -0800
+
+    merged the files
+
+commit 0064c6f1e0a154ecd1fa4edc448a92bb8605cc5b (origin/Danielle's-branch)
+Author: danielleG332 <dgarci332@calstatela.edu>
+Date:   Tue Feb 4 19:39:35 2025 -0800
+
+    Update index.html in danielles branch
+
+commit a52fc6922cda6748888033ac8bcc6539559aedec
+Author: Daniel Moncada <dmoncad4@calstatela.edu>
+Date:   Tue Feb 4 19:19:46 2025 -0800
+
+    I added a small message at the end
+
+commit 99b5b9f576081c7216829239533beb322a0cd74e
+Author: danielleG332 <dgarci332@calstatela.edu>
+Date:   Tue Feb 4 19:13:22 2025 -0800
+
+    edited index.html
+    
+    re-added my edit
+
+commit 788cbda3debec909c34da27b82cee0a5aa82ac13
+Author: danielleG332 <dgarci332@calstatela.edu>
+Date:   Tue Feb 4 19:08:05 2025 -0800
+
+    Update index.html
+    
+    deleted line
+
+commit 2ff9002c57dced9ad604ac5fc1d3f6309339ed9a
+Author: danielleG332 <dgarci332@calstatela.edu>
+Date:   Tue Feb 4 19:05:52 2025 -0800
+
+    Update index.html
+    
+    edited a line in html adding my name
+
+commit b2632fa93c547094184f5eaab13a79fdd717f97e
+Author: Daniel Moncada <dmoncad4@calstatela.edu>
+Date:   Fri Jan 31 12:03:19 2025 -0800
+
+    repo location
+
+commit ad212e938eefaf8e41a9857ca79b5b385b7b71ca
+Author: Daniel Moncada <dmoncad4@calstatela.edu>
+Date:   Fri Jan 31 12:02:48 2025 -0800
+
+    log
+
+commit aa5fe5c4812cf0938a3d6e1852db89eb0d106336
+Merge: 521df73 4e074e9
+Author: Daniel Moncada <dmoncad4@calstatela.edu>
+Date:   Fri Jan 31 11:55:45 2025 -0800
+
+    added new things
+
+commit 4e074e9265776e44d64afaa806b84d936f436c6b (index-fix)
+Author: Daniel Moncada <dmoncad4@calstatela.edu>
+Date:   Fri Jan 31 11:17:40 2025 -0800
+
+    added favorite movie
+
+commit 521df7345fbbbdd35b1cb225c53cc4c49162a59f
+Author: Daniel Moncada <dmoncad4@calstatela.edu>
+Date:   Fri Jan 31 11:15:17 2025 -0800
+
+    added favorite food
+
+commit 55053574ce9b69fc041e854a1f8cc83b99d31012
+Author: Daniel Moncada <dmoncad4@calstatela.edu>
+Date:   Fri Jan 31 11:09:33 2025 -0800
+
+    name and hobbies
+
+commit afe1f360c47fc6c87587a3d461db111d1737fc39
+Merge: 1d2bfc0 8afe722
+Author: DanielMS-AI <dmoncad4@calstatela.edu>
+Date:   Fri Jan 31 11:02:59 2025 -0800
+
+    Merge pull request #1 from DanielMS-AI/info-fill
+    
+    I editied the file
+
+commit 8afe722391ebe15b354236dd47a0fb595acd5296 (origin/info-fill)
+Author: Daniel Moncada <dmoncad4@calstatela.edu>
+Date:   Fri Jan 31 10:50:05 2025 -0800
+
+    I editied the file
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
+(END)
